@@ -34,5 +34,6 @@ bundle install #系統找不到指定的路徑
 ### bundel.bat
 ![image](https://github.com/momo200e/error_and_solve-ruby-on-rails/blob/master/errror4.jpg)
 
-`bundel.bat`的路徑完全不存在!!!!!
-**所以把路徑改隊就解決了~~~~ ^^**
+`bundel.bat`的路徑完全不存在!!!!!     
+**所以把路徑改隊就解決了~~~~ ^^**        
+*其他路徑找不到也是一樣
